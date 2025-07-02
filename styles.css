@@ -1,0 +1,43 @@
+body {
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa;
+}
+
+.container {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.header h1 {
+    font-weight: 600;
+    color: #343a40;
+}
+
+.header p {
+    font-weight: 400;
+    color: #6c757d;
+}
+
+form label {
+    font-weight: 600;
+    color: #495057;
+}
+
+.priority-result {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #ffc107;
+    border-radius: 8px;
+    text-align: center;
+    font-weight: 600;
+}
+
+.priority-result .score {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
